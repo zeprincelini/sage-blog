@@ -1,0 +1,64 @@
+.navbar-default{
+	background:url(../image/bg2.jpg) !important;
+	border:none !important;
+}
+.navbar-nav li a{
+	/*color: black!important;*/
+	font-weight: bold;
+}
+.nav li:hover{
+	background: brown !important;
+}
+.nav li a:hover{
+	color: white !important;
+}
+.active a{
+	background: brown !important;
+	border-right: 1px solid brown !important;
+	border-left: 1px solid brown !important;
+	border-color: brown !important;
+	color: white !important;
+}
+#ln{
+	background:url(../image/bg2.jpg);
+	min-height:5px;
+}
+
+#footer{
+	background:url(../image/bg2.jpg);
+	color: white;
+	font-weight: bold;
+}
+#blogpost{
+	background:url(../image/bg2.jpg) !important;
+	padding: 10px;
+}
+.caption{
+	overflow:hidden;
+}
+.btn-default{
+	background:url(../image/bg2.jpg) !important;
+	color: white !important;
+}
+input[type=text]{
+	background: white !important;
+	color: black;
+}
+#com{
+	background:url(../image/bg2.jpg) !important;
+}
+.side{
+	background:url(../image/bg2.jpg) !important;
+	color: white !important;
+}
+.read{
+	background:url(../image/bg2.jpg) !important;
+	color: white !important;
+	border-color:#5C3317 !important;
+}
+/*body{
+	background:url(../image/bg2.jpg) center center no-repeat !important;
+	background-size:cover !important;
+	background-repeat:no-repeat !important;
+	background-attachment:fixed !important;
+}*/

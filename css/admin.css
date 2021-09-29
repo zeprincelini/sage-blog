@@ -1,0 +1,69 @@
+body{
+	background-color:brown !important;
+}
+.col-sm-2{
+	color: white;
+}
+.col-sm-10{
+	background: white;
+}
+#side a{
+	color: white;
+}
+#side .active a{
+	font-weight: bold;
+	background: white;
+	color: brown;
+}
+#side a:hover{
+	font-weight: bold;
+	color: brown;
+	display: block;
+}
+/*.glyphicon{
+	margin-right: 10px;
+}*/
+#footer{
+	color: white;
+	font-weight: bold;
+}
+
+.nav li a{
+	color:  !important;
+	font-weight: bold;
+}
+.nav li:hover{
+	background: brown !important;
+}
+.nav li a:hover{
+	color: white !important;
+}
+.aactive a{
+	background: brown !important;
+	border-right: 1px solid brown !important;
+	border-left: 1px solid brown !important;
+	color: white !important;
+}
+#ti{
+	color: brown;
+	font-weight: bold;
+}
+.atags a{
+	color: white;
+	text-decoration: none;
+	font-weight:bold;
+}
+#italic, #bold{
+	background-color: white !important;
+	color: black !important;
+	font-weight: bold !important;
+	border: none !important;
+}
+#italic:hover,#bold:hover{
+	cursor: pointer !important;
+	background-color: brown !important;
+	color: white !important;
+}
+/*#access{
+	display:none;
+}*/
